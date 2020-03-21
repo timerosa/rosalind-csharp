@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/debit/.dotnet/store/|arch|/|tfm|",
+      "/home/debit/.nuget/packages"
+    ]
+  }
+}

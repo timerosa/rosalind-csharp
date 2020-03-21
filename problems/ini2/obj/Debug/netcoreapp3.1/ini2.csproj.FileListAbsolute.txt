@@ -1,0 +1,11 @@
+/home/debit/Documentos/projetos/rosalind-csharp/problems/ini2/bin/Debug/netcoreapp3.1/ini2
+/home/debit/Documentos/projetos/rosalind-csharp/problems/ini2/bin/Debug/netcoreapp3.1/ini2.deps.json
+/home/debit/Documentos/projetos/rosalind-csharp/problems/ini2/bin/Debug/netcoreapp3.1/ini2.runtimeconfig.json
+/home/debit/Documentos/projetos/rosalind-csharp/problems/ini2/bin/Debug/netcoreapp3.1/ini2.runtimeconfig.dev.json
+/home/debit/Documentos/projetos/rosalind-csharp/problems/ini2/bin/Debug/netcoreapp3.1/ini2.dll
+/home/debit/Documentos/projetos/rosalind-csharp/problems/ini2/bin/Debug/netcoreapp3.1/ini2.pdb
+/home/debit/Documentos/projetos/rosalind-csharp/problems/ini2/obj/Debug/netcoreapp3.1/ini2.csprojAssemblyReference.cache
+/home/debit/Documentos/projetos/rosalind-csharp/problems/ini2/obj/Debug/netcoreapp3.1/ini2.AssemblyInfoInputs.cache
+/home/debit/Documentos/projetos/rosalind-csharp/problems/ini2/obj/Debug/netcoreapp3.1/ini2.AssemblyInfo.cs
+/home/debit/Documentos/projetos/rosalind-csharp/problems/ini2/obj/Debug/netcoreapp3.1/ini2.dll
+/home/debit/Documentos/projetos/rosalind-csharp/problems/ini2/obj/Debug/netcoreapp3.1/ini2.pdb
