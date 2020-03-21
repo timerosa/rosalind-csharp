@@ -6,7 +6,7 @@ namespace ini2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(hypotenuse(3, 5));
+            Console.WriteLine(hypotenuse(895, 939));
         }
 
         static int hypotenuse(int a, int b)
