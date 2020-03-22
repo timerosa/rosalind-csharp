@@ -23,6 +23,7 @@
 
 *.suo
 *.user
+*.dll
 .vs/
 [Bb]in/
 [Oo]bj/
