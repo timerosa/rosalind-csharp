@@ -6,10 +6,12 @@ namespace ini2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(hypotenuse(895, 939));
+            int a = 895;
+            int b = 939;
+            Console.WriteLine(Hypotenuse(a, b));
         }
 
-        static int hypotenuse(int a, int b)
+        private static int Hypotenuse(int a, int b)
         {
             //Console.WriteLine(System.Math.Pow(a, 2) + System.Math.Pow(b, 2)); 
             return a * a + b * b;
