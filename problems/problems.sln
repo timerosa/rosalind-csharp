@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ini4", "ini4\ini4.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ini5", "ini5\ini5.csproj", "{583BF873-E62D-4EB6-AC51-F51238017728}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ini6", "ini6\ini6.csproj", "{DBEF6C38-D802-4D7D-9942-C210EC7457EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{583BF873-E62D-4EB6-AC51-F51238017728}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{583BF873-E62D-4EB6-AC51-F51238017728}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{583BF873-E62D-4EB6-AC51-F51238017728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBEF6C38-D802-4D7D-9942-C210EC7457EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEF6C38-D802-4D7D-9942-C210EC7457EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEF6C38-D802-4D7D-9942-C210EC7457EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEF6C38-D802-4D7D-9942-C210EC7457EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
