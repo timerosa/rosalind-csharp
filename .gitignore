@@ -24,6 +24,7 @@
 *.suo
 *.user
 *.dll
+*.pdb
 .vs/
 [Bb]in/
 [Oo]bj/
