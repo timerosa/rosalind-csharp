@@ -1,6 +1,13 @@
  
 # Common IntelliJ Platform excludes
+/problems/problems.sln
 
+.idea
+
+*/bin
+*/obj
+/problems/ini2/bin/
+/problems/ini2/obj/
 # User specific
 **/.idea/**/workspace.xml
 **/.idea/**/tasks.xml
